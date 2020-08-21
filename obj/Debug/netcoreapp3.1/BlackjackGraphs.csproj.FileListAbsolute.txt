@@ -1,0 +1,13 @@
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs.deps.json
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs.runtimeconfig.json
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs.runtimeconfig.dev.json
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs.dll
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/bin/Debug/netcoreapp3.1/BlackjackGraphs.pdb
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.csprojAssemblyReference.cache
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.AssemblyInfoInputs.cache
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.AssemblyInfo.cs
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.csproj.CoreCompileInputs.cache
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.dll
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.pdb
+/home/jansthcirlu/Desktop/Programming/Blackjack/Csharp/BlackjackGraphs/obj/Debug/netcoreapp3.1/BlackjackGraphs.genruntimeconfig.cache
